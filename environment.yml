@@ -1,0 +1,23 @@
+name: datascience
+channels:
+- defaults
+- conda-forge
+dependencies:
+- beautifulsoup4
+- ipython
+- ipywidgets
+- jupyter
+- matplotlib
+- notebook
+- numpy
+- pandas
+- pip
+- psycopg2
+- python
+- pyyaml
+- requests
+- seaborn
+- scipy
+- scikit-learn
+- statsmodels
+- xgboost
